@@ -1,0 +1,3 @@
+﻿  cardtest.c
+cardtest.obj : error LNK2019: unresolved external symbol getCardHolderName referenced in function getCardHolderNameTest
+C:\Users\PC\Downloads\PaymentApplication\PaymentApplication\testcases\x64\Debug\testcases.exe : fatal error LNK1120: 1 unresolved externals
